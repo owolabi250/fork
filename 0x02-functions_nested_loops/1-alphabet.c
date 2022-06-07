@@ -1,4 +1,6 @@
-#include <stdio.h>
+#include <main.h>
+#include <stdbool.h>
+
 
 /**
  * print alphabet in lower case
