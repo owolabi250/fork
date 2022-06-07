@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <main.c>
+#include "main.h"
 
 /**
  * print_sign - Determines if the input number
