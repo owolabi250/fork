@@ -5,7 +5,7 @@
  * _isalpha - Shows 1 if the input is a
  * let Another cases, shows 0
  *
- * c: The character in ASCII code
+ * @c: The character in ASCII code
  *
  * Return: 1 for letters. 0 for the rest.
  */
