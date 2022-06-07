@@ -21,7 +21,7 @@ void jack_bauer(void)
 						break;
 					_putchar(a);
 					_putchar(b);
-i					_putchar(58);
+					_putchar(58);
 					_putchar(c);
 					_putchar(d);
 					_putchar('\n');
