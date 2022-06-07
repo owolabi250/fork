@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <main.c>
+#include "stdio.h"
+#include <ctype.h>
 
 /*
  *_islower - Shows 1 if the input is a
@@ -21,5 +21,3 @@ int _islower(int c)
 	}
 	_putchar('\n');
 }
-
-	
